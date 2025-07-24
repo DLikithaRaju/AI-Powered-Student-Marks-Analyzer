@@ -1,0 +1,1 @@
+Components: 1) Voice based marks storage in Excel , 2) creates new excel file which contains Total, Average ,Rank, AI Powered Feedback , 3) Automatic PDF Report Card Generation , 4) Display's class rank, subject wise toppers , 5) Produces graphs for the data in excel file(Data Visualization)
